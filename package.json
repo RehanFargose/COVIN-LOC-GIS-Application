@@ -1,0 +1,16 @@
+{
+  "name": "photobucket-master",
+  "version": "1.0.0",
+  "description": "Photobucket is a simple Photo sharing GIS Progressive web app",
+  "main": "sw.js",
+  "dependencies": {
+    "firebase-admin": "^9.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
