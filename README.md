@@ -1,2 +1,2 @@
-# photobucket
-Photobucket is a simple Photo sharing GIS Progressive web app
+# Basic GIS Application
+COWIN LOC is a simple GIS app that allows patients to sign into the app and ask for help regarding medical prescriptions and other medical equipment(such as oxygen tanks) during the COVID-19 pandemic. It also has an ESRI map that has the location of all nearby hospitals and the number of COVID beds available in them. It is updated in real time and users can connect with others to help them since the email address of users is shared when they ask for help.
